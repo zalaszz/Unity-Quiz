@@ -3,5 +3,5 @@
 If you are using git bash just copy the command below to clone the repo :cold_face:
 
 <pre>
-<code>git clone https://github.com/RicardoLGCS/Clary.git</code>
+<code>git clone https://github.com/zalaszz/Clary.git</code>
 </pre>
